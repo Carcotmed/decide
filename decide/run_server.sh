@@ -1,1 +1,1 @@
-python3 ../egc/decide/decide/manage.py runserver 0:8000
+python3 ../decide/manage.py runserver 0:8000
