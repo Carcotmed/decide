@@ -1,1 +1,1 @@
-python3 ../egc/decide/decide/manage.py test --exe
+python3 ../manage.py test --exe
