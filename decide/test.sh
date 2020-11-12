@@ -1,1 +1,1 @@
-python3 ../manage.py test --exe
+python3 ../decide/manage.py test --exe
